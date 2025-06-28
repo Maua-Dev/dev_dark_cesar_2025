@@ -20,3 +20,31 @@ body {
 }
 
 /* Escreva a partir daqui */
+.preto{
+  background-color: black;
+  width: 100%;
+  height: 33%;
+}
+.vermelho{
+  background-color: red;
+  width: 100%;
+  height: 33%;
+}
+
+.vermelho p{
+  color: black;
+  font-size: large;
+}
+.amarelo{
+  background-color: yellow;
+  width: 100%;
+  height: 33%;
+}
+
+#villager{
+  justify-items: center;
+  align-self: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
